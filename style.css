@@ -1,0 +1,12 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 5px;
+    color:white;
+    /* color:whitesmoke; */
+    /* background-color: black; */
+}
+#app{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
